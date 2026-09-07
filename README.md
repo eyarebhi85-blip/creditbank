@@ -1,6 +1,4 @@
-bash
 
-cat << 'EOF'
 # Smart Credit Bank
 
 Système intelligent d'aide à la décision pour l'approbation de crédits bancaires, développé dans le cadre du Projet de Fin d'Études en Génie Logiciel (FST Sidi Bouzid — Université de Kairouan), en partenariat avec ATS Informatique.
