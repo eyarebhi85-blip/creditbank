@@ -68,3 +68,4 @@ Application web permettant d'automatiser et d'expliquer les décisions d'approba
 - `loan_app_db.sql` — script de création de la base de données
 
 ## Auteures
+Projet réalisé en binôme par Eya Rebhi et Aya Mansouri, durant un stage de fin d'études chez ATS Informatique (02/2026 – 05/2026).
